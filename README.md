@@ -13,3 +13,4 @@ Applications to become a beta-tester will come out soon. <br>
 
 **Contacts** <br>
 Laphatize - laphatize.me@gmail.com
+Newslet Support - newslet@laphatize.me
