@@ -1,4 +1,5 @@
 # Newslet
+
 Newslet, is a tool that allows you to check if you are getting a reliable source of information.
 
 **How does it work?**</br>
@@ -7,5 +8,5 @@ Newslet checks websites known for it's reliabilty to see if the information you 
 **When can you use it?**</br>
 Newslet is planned to be released on August 7th, 2018. Seems like a long time, but the wait is worth it.
 
-**Want to help with the development of Newslet?**
-A application to become a beta-tester will come out soon. (Like when there is something to beta test.
+**Want to help with the development of Newslet?**<br>
+Applications to become a beta-tester will come out soon. 
