@@ -11,4 +11,5 @@ Newslet is planned to be released on August 7th, 2018. Seems like a long time, b
 **Want to help with the development of Newslet?**<br>
 Applications to become a beta-tester will come out soon. <br>
 
-`
+**Contacts**
+<b> Laphatize </b> - laphatize.me@gmail.com
