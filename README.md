@@ -1,6 +1,6 @@
-# Newslet 
-` MIT License `
-` v.0.1 ` <br>
+# Newslet ` MIT License `` v.0.1 ` <br>
+
+**What is it?** <br>
 Newslet, is a tool that allows you to check if you are getting a reliable source of information. We don't keep track of the information you are verifying. Best of all, Newslet is open-source, you can see all the code thats responsible for verifying your content.<br>
 
 **How does it work?**</br>
