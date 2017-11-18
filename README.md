@@ -19,8 +19,9 @@ Newslet Support - newslet@laphatize.me<br>
 **Other info**<br>
 Newslet will run within the laphatize.me domain, the link to Newslet will look something like this: laphatize.me/newslet.html.
 <br>
+
 **Tests**<br>
 These are super basic versions of newslet:<br>
 
 Newslet Sugar - laphatize.me/other.html <br>
-[LATEST] Newslet Salt - https://github.com/Laphatize/Newslet (Clone and run) <br>
+Newslet Salt - https://github.com/Laphatize/Newslet (Clone and run) <br>
