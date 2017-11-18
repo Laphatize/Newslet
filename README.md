@@ -14,4 +14,13 @@ Applications to become a beta-tester will come out soon. <br>
 
 **Contacts** <br>
 Laphatize - laphatize.me@gmail.com <br>
-Newslet Support - newslet@laphatize.me
+Newslet Support - newslet@laphatize.me<br>
+
+**Other info**<br>
+Newslet will run within the laphatize.me domain, the link to Newslet will look something like this: laphatize.me/newslet.html.
+<br>
+**Tests**<br>
+These are super basic versions of newslet:<br>
+
+Newslet Sugar - laphatize.me/other.html <br>
+[LATEST] Newslet Salt - https://github.com/Laphatize/Newslet (Clone and run) <br>
