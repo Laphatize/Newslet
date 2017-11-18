@@ -21,5 +21,5 @@ Newslet will run within the laphatize.me domain, the link to Newslet will look s
 <br>
 
 **Public Betas**<br>
-Newslet Sugar - laphatize.me/other.html <br>
+Newslet Sugar - http://laphatize.me/other.html <br>
 Newslet Salt - https://github.com/Laphatize/Newslet (Clone and run) <br>
